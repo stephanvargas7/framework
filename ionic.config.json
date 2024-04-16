@@ -1,0 +1,8 @@
+{
+  "name": "Framework",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "145c038d"
+}
